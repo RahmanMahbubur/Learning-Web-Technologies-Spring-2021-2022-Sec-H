@@ -1,0 +1,19 @@
+<products>
+	<ID> 11 </ID>
+	<NAME> Samsung </NAME>
+	<UNIT-PRICE> 35000 </UNIT-PRICE>
+	<STOCK> 50 </STOCK>
+	<STATUS> 1 </STATUS>
+
+	<ID> 20 </ID>
+	<NAME> HTC </NAME>
+	<UNIT-PRICE> 65300 </UNIT-PRICE>
+	<STOCK> 35 </STOCK>
+	<STATUS> 0 </STATUS>
+
+	<ID> 23 </ID>
+	<NAME> NOKIA </NAME>
+	<UNIT-PRICE> 25100 </UNIT-PRICE>
+	<STOCK> 100 </STOCK>
+	<STATUS> 1 </STATUS>
+</products>
